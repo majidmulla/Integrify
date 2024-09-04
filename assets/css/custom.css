@@ -1,0 +1,43 @@
+/* Custom CSS for EdTech Platform */
+
+/* Global body styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Hyperlink styling */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Headings - Ensuring uniform, bold styling */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+  
+  /* Container - Added margin and padding for center alignment */
+  .container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Custom button styling */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
