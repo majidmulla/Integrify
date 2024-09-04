@@ -1,6 +1,6 @@
 export default {
   // Target: 'server' for SSR, 'static' for static site generation
-  target: 'server',  // or 'static', depending on what you need
+  target: 'server',  // or 'static', depending on what is needed
 
   // Global page headers
   head: {
